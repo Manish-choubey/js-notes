@@ -1,0 +1,45 @@
+//strinf indexing
+
+// let first_Name = "manish"
+// m a n i s 
+// 0 1 2 3 4
+
+// if we want to print singal letter than
+// console.log(first_Name[3])
+
+// result= i
+
+
+// we can find length of string By
+// firstName.length
+// and lastname = length-1
+// console.log(firstName.length)// 
+// resutl== 6
+// console.log(firstName[firstName.length-1])
+// last String s 
+
+
+// use of
+// trim()
+// touppercase()
+// tolowercase()
+// slice()
+
+//  let firstName = "   manish    "
+// let newaary = firstName.trim()
+// console.log(newaary)/// "manish"
+
+// let newaary = firstName.toUpperCase()
+
+// console.log(newaary)//MANISH
+
+// let newaary = firstName.tolowercase()
+// console.log(newaary)//manish
+
+
+// use of slice
+// start index
+// end index
+
+// let newaary = firstName.slice(0,4)//mani
+
